@@ -23,13 +23,10 @@ public class testsample {
 		
 		System.out.println(s.toLowerCase());
 		System.out.println(s.toLowerCase());
-<<<<<<< HEAD
 		System.out.println(s.toLowerCase());
-=======
 		System.out.println(s.toUpperCase());
 
 		
->>>>>>> b9054f06bae7818080b4389bfbe5275fc21cd295
 		
 		
 	}
