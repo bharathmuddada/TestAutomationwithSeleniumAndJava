@@ -23,7 +23,7 @@ public class testsample {
 		
 		System.out.println(s.toLowerCase());
 		System.out.println(s.toLowerCase());
-		
+		System.out.println(s.toLowerCase());
 		
 		
 	}
