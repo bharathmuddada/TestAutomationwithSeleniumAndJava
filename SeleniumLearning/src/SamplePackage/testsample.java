@@ -19,7 +19,7 @@ public class testsample {
 		
 		System.out.println(s.toUpperCase());
 		
-		
+		System.out.println(s.toUpperCase());
 		
 		
 		
